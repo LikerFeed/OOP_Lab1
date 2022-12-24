@@ -1,0 +1,2 @@
+#define IDD_DIALOG1                     101
+#define IDNEXT                          1003
